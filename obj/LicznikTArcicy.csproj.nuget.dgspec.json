@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\szarl\\source\\repos\\LicznikTArcicy\\LicznikTArcicy.csproj": {}
+    "C:\\Szymon Programista\\Licznik Tarcicy\\LicznikTarcicy\\LicznikTArcicy.csproj": {}
   },
   "projects": {
-    "C:\\Users\\szarl\\source\\repos\\LicznikTArcicy\\LicznikTArcicy.csproj": {
+    "C:\\Szymon Programista\\Licznik Tarcicy\\LicznikTarcicy\\LicznikTArcicy.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\szarl\\source\\repos\\LicznikTArcicy\\LicznikTArcicy.csproj",
+        "projectUniqueName": "C:\\Szymon Programista\\Licznik Tarcicy\\LicznikTarcicy\\LicznikTArcicy.csproj",
         "projectName": "LicznikTArcicy",
-        "projectPath": "C:\\Users\\szarl\\source\\repos\\LicznikTArcicy\\LicznikTArcicy.csproj",
-        "packagesPath": "C:\\Users\\szarl\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\szarl\\source\\repos\\LicznikTArcicy\\obj\\",
+        "projectPath": "C:\\Szymon Programista\\Licznik Tarcicy\\LicznikTarcicy\\LicznikTArcicy.csproj",
+        "packagesPath": "C:\\Users\\marci\\.nuget\\packages\\",
+        "outputPath": "C:\\Szymon Programista\\Licznik Tarcicy\\LicznikTarcicy\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\szarl\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\marci\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -58,7 +58,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     }
